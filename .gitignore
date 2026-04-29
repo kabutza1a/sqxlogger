@@ -1,0 +1,8 @@
+sqlog.db
+venv/
+__pycache__/
+*.key
+*.pem
+.env
+*.png
+*.csv
