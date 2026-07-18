@@ -54,6 +54,7 @@ If you're deploying to a headless Linux VPS, you'll connect to it via SSH from a
 
 ## Documentation
 
+- [Installation Notes](INSTALL-NOTES.md) — a plain-English guide to getting set up, written for non-programmers
 - [User Guide](SQXRunsLogger_UserGuide_v1.0-public.docx) — a walkthrough of every page in the app
 - [System Specification](SQXRunsLogger_Spec_v1.4-public.md) — ID parsing rules, database schema, and deployment notes
 
