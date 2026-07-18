@@ -1,4 +1,4 @@
 #!/bin/bash
-cd ~/Documents/___Dev/_SQXlogger
+cd "$(dirname "$0")"
 source venv/bin/activate
 streamlit run app.py
